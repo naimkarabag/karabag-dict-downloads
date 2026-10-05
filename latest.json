@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0-alpha.27",
+  "notes": "karabag-dict: neuer Produktname, helle Downloadseite im Suite-Design und kompatibles App-Update mit unver\u00e4nderten pers\u00f6nlichen Daten. Alpha-Teststand.",
+  "pub_date": "2026-10-05T20:38:42.461840+00:00",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/naimkarabag/karabag-dict-downloads/releases/download/v0.1.0-alpha.27/karabag-dict-0.1.0-alpha.27-mac.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdS80YVJBT3NDTHA1endQREJuTUVraGVFV2wvSDFzblFVVnA5K2dZNUU2eWlSbDVuS3FlMHpoQzM1NE5LM2daeHlUOUpzVzlwUlRHSnRua2tIR25xcTRTWjVKdjdYancwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjMxODgzCWZpbGU6a2FyYWJhZy1kaWN0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMC1hbHBoYS4yNwpRZHl6L2tvcWhmYmZaN3RZREJrVUE5UDBoSzZCaGZuZHM4Rmpoc0VNeFJ0TFBIcjVPY05pbkl0ek40VEVzWjFUaXVZSCtvamFrd2ZCc2dITXVOLzFCQT09Cg=="
+    },
+    "windows-aarch64": {
+      "url": "https://github.com/naimkarabag/karabag-dict-downloads/releases/download/v0.1.0-alpha.27/karabag-dict-0.1.0-alpha.27-windows-arm64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdS80YVJBT3NDTHUrN09ZZlJNY3BUNm12SjdnMzh6V2tEQlVscVg5TWk1VnJpU1VxeFRKNDA1dEhZMjVzdEpUUC95NWl5UnlUbDhmK3VNc3A3K1BJZ0xVUDFwcWpROEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjMyNzE4CWZpbGU6d2luZG93cy1hcm02NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMC1hbHBoYS4yNwpSbVF2QXl1WmpvODNtczlzVzdqbFMzRS9FeGdvWk1xMmR6YlRYcURIV3dtTWRUTzVPRlJ2NmNQQ0IwdGl6YnVldTNNMTJvVmw5TS9IZTVHWEJpZGJDdz09Cg=="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/naimkarabag/karabag-dict-downloads/releases/download/v0.1.0-alpha.27/karabag-dict-0.1.0-alpha.27-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdS80YVJBT3NDTHV3anBKeVJGcGs2RXdndEJCb0ZxQ1JqbG5GNmVYK3hWTlhQcEdmVnhuc3ZVYTBsbnppZEhiV2tQbCtHek1IWDhlSi9CaVA2RDJuTWt4MmlCL3VQN2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjMyNzE5CWZpbGU6d2luZG93cy14NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtYWxwaGEuMjcKa3h0bXRuWnhtWTROa2NJVU5XRXFQbDlCU3BiR2xxVmJBSW5OUUxUVU01SFY1RzVnNHpyTDJ1OU5ieEEzSG55VmRyQlBvMW5KU0wySWsxTUFLd2hoQ1E9PQo="
+    }
+  }
+}
